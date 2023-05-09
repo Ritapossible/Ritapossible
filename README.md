@@ -4,11 +4,11 @@ Hi there👋
 
 🌱 I’m currently learning Javascript.
 
-💞️ I’m looking to collaborate open source Projects.
+💞️ I’m looking to collaborate in open source Projects.
 
 📫 How to reach me,contact me on Twitter.
 
-⚡ Fun fact: I'm Nigerian!
+⚡ Fun fact: I'm Nigerian and a Chemical Engineer!
 
 ✨ My current Stack: Python, HTML, CSS.
 
