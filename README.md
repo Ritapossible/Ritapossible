@@ -6,7 +6,7 @@ Hi there👋
 
 💞️ I’m looking to collaborate in open source Projects.
 
-📫 **How to reach me:** Contact me on Twitter: [@Simply_RiTq](https://twitter.com/Simply_RiTq)
+📫 **How to reach me:** Contact me on Twitter: [Email](egwuaturita95@gmail.com)
 
 ⚡ Fun fact: I'm Nigerian and a Chemical Engineer!
 
@@ -26,6 +26,6 @@ Hi there👋
 
 
 <!---
-Ritapossible/Ritapossible is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rita/Rita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
