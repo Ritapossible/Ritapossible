@@ -6,7 +6,7 @@ Hi there👋
 
 💞️ I’m looking to collaborate in open source Projects.
 
-📫 **How to reach me:** Contact me on Twitter: [Email](egwuaturita95@gmail.com)
+📫 **How to reach me:** Contact me on Twitter: [@RitaCryptoTips](https://x.com/RitaCryptoTips)
 
 ⚡ Fun fact: I'm Nigerian and a Chemical Engineer!
 
