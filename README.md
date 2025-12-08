@@ -2,7 +2,7 @@ Hi there👋
 
 👀 I’m interested in advancing my career in software engineering through learning and contributing to open source projects.
 
-🌱 I’m currently learning Backend development.
+🌱 I’m currently learning web3 development.
 
 💞️ I’m looking to collaborate in open source Projects.
 
@@ -19,10 +19,10 @@ Hi there👋
 - Node.js
 
 ✨**Additional Skills:**
-* HTML
-* CSS
-* SQL
 * Git
+* SQL
+* technical writing
+* DevRel
 
 
 <!---
