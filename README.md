@@ -8,7 +8,8 @@ Hi there👋
 
 📫 **How to reach me:** Contact me on Twitter: [@RitaCryptoTips](https://x.com/RitaCryptoTips)
 
-📚 Read my blog: [Devto](https://dev.to/ritapossible)
+📚 Read my blog:[Medium](https://medium.com/@ritapossible) & [Devto](https://dev.to/ritapossible)
+
 ⚡ Fun fact: I'm Nigerian and a Chemical Engineer!
 
 ✨ **My Current Tech Stack**
