@@ -28,6 +28,13 @@
 
 ### 🚀 What I'm building
 
+**Paying and constraining autonomous agents** — the two projects I'd point at first:
+
+| Project | What it does |
+|---|---|
+| [**Scrip**](https://github.com/Ritapossible/Scrip) | Machine-payable FXRP. An agent hits a paid API, gets a `402` priced in USD, signs two offchain messages — and pays holding **no gas token at all**. x402 over Flare, priced at the live FTSO feed. Live on Coston2. |
+| [**BONDED**](https://github.com/Ritapossible/Bonded) | A mandate gate for agents trading Binance. Every order that reaches the exchange is reconciled against what BONDED authorised — an order it never approved is detected, attributed, and burns the bond. |
+
 **AI-verified smart contracts** — on [GenLayer](https://genlayer.com), where contracts can reason over real-world data:
 
 | Project | What it does |
@@ -36,7 +43,8 @@
 | [**Recourse**](https://github.com/Ritapossible/Recourse) | Post money behind a public commitment; when the deadline lands, the chain reads the evidence and settles. |
 | [**SmartAudit-AI**](https://github.com/Ritapossible/SmartAudit-AI) | AI-powered smart contract auditor built on the GenLayer testnet. |
 | [**Mochi-Mind**](https://github.com/Ritapossible/Mochi-Mind-GenLayer-Studio) | GenLayer Studio build — [live demo](https://mochi-mind-gen.vercel.app). |
-| [**Dedup Registry**](https://github.com/Ritapossible/GenLayer-Dedup-Registry) · [**Mandate Vault**](https://github.com/Ritapossible/GenLayer-Mandate-Vault) | Intelligent-contract primitives for deduplication and delegated authority. |
+| [**Dedup Registry**](https://github.com/Ritapossible/GenLayer-Dedup-Registry) | "Have we seen this before?" for free-form text — two deterministic stages run first, so a 10,000-record registry still costs at most 5 LLM calls. |
+| [**Mandate Vault**](https://github.com/Ritapossible/GenLayer-Mandate-Vault) | A spending mandate an agent cannot argue with: the code judges the *amount*, the model judges the *purpose*. A cap can't tell a GPU lease from a gift card. |
 
 **Reactive & real-world onchain apps** — on [Rialo](https://rialo.io), the chain that natively speaks HTTPS:
 
