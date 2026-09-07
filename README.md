@@ -102,8 +102,16 @@
 ### 📊 By the numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ritapossible&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Rita's GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritapossible&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
+  <img alt="Public repositories" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRitapossible&query=%24.public_repos&label=repos&style=for-the-badge&color=6b46c1&logo=github&logoColor=white">
+  <img alt="Followers" src="https://img.shields.io/github/followers/Ritapossible?style=for-the-badge&color=6b46c1&logo=github&logoColor=white">
+  <img alt="Stars earned" src="https://img.shields.io/github/stars/Ritapossible?affiliations=OWNER&style=for-the-badge&color=6b46c1&logo=github&logoColor=white">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Ritapossible&theme=dark&hide_border=true&background=00000000&ring=6B46C1&fire=6B46C1&currStreakLabel=6B46C1">
+    <img src="https://streak-stats.demolab.com/?user=Ritapossible&hide_border=true&background=00000000&ring=6B46C1&fire=6B46C1&currStreakLabel=6B46C1" alt="Contribution streak">
+  </picture>
 </p>
 
 ---
