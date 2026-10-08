@@ -18,17 +18,32 @@
 
 - 🇳🇬 Based in **Nigeria**, building for a global, permissionless internet.
 - 🔭 I work at the intersection of **AI agents and smart contracts** — systems where the chain doesn't just hold value, it *verifies things about the real world* before acting.
-- ⛓️ Currently shipping on **GenLayer**, **Rialo**, **Aleo**, **BNB Chain**, and **Arc Network**.
+- ⛓️ Currently shipping on **GenLayer**, **Rialo**, **Aleo**, **BNB Chain**, **Monad**, **Flare**, and **Arc Network**.
 - 🎓 **ALX Software Engineering** alum — C, systems, backend, DevOps, the unglamorous foundations.
 - ✍️ I write about what I build on [Medium](https://medium.com/@ritapossible) and [DEV](https://dev.to/ritapossible).
-- 🤝 Open to collaboration on **open source**, **web3 tooling**, and **DevRel**.
+- 💼 Open to **software engineering roles** (Python / TypeScript, backend, full-stack, AI agents), plus **open source**, **web3 tooling**, and **DevRel**.
 - ⚡ **Fun fact:** I trained as a Chemical Engineer. Turns out process design and distributed systems are the same job — get inputs, transform them safely, and make sure nothing blows up.
 
 ---
 
 ### 🚀 What I'm building
 
-**Paying and constraining autonomous agents** — the two projects I'd point at first:
+**Latest work** — shipped Sept–Oct 2026, each with tests and a live deployment or on-chain contract:
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Ballast**](https://github.com/Ritapossible/Ballast) | Hold tokenized US stocks through the night without holding the night's risk — overnight decisions settled against what the market actually did. [Live](https://ballast-v1.vercel.app) | Python · CI + nightly pipeline · Vercel |
+| [**Egress**](https://github.com/Ritapossible/Egress) | Measures what it costs to *exit* a tokenized stock at your size, crawling every listed instrument every five minutes. [Live](https://egress-v1.vercel.app) | Python · order-book analytics · Vercel |
+| [**Stamp**](https://github.com/Ritapossible/Stamp) | A pre-trade gate for tokenized stocks on BSC: issuer, share count, halt state and price checked in fixed code before anything is signed. [Live](https://stamp-iizn.onrender.com) | TypeScript · Vitest · Render |
+| [**Docket**](https://github.com/Ritapossible/Docket) | An agent's reputation computed from what a contract actually let it do — every allowed *and* refused action recorded on-chain. | Solidity · TypeScript · viem · Monad |
+| [**Clause**](https://github.com/Ritapossible/Clause) | Escrow that pays on the spec you wrote: disputes must cite a clause, and an AI-validator jury rules on that clause alone. | GenLayer · Python · web app |
+| [**Remit**](https://github.com/Ritapossible/Remit) | Spending authority for AI agents: arithmetic rules clear in the same transaction, judgment calls go to an AI jury. | GenLayer · Python · pytest |
+| [**Credent**](https://github.com/Ritapossible/Credent) | On-chain reputation oracle for agents: collateral priced from reputation, work graded inside consensus. | GenLayer · Python |
+| [**Bench**](https://github.com/Ritapossible/Bench) | AI agent marketplace for BNB Chain where agents audition on your real position before you pay. [Live](https://bench-bnb.vercel.app) | TypeScript monorepo · Docker · GenLayer arbiter |
+| [**Rowgate**](https://github.com/Ritapossible/Rowgate) | Checks a release branch against a signed API-contract spreadsheet and writes the failing contract test, citing the cell. [Live](https://rowgate.vercel.app) | Python · pytest · IBM Bob |
+| [**Constant**](https://github.com/Ritapossible/Constant) | Set-and-forget auto-payments for data, electricity, cable TV and subscriptions in Nigeria, with running-low forecasts. | TypeScript · pnpm monorepo · Android |
+
+**Paying and constraining autonomous agents:**
 
 | Project | What it does |
 |---|---|
@@ -59,8 +74,7 @@
 | Project | What it does |
 |---|---|
 | [**Nexusu**](https://github.com/Ritapossible/Nexusu) | AI-powered cooperative banking platform on Arc Network. |
-| [**Olex**](https://github.com/Ritapossible/Olex) | Aleo HQ MPC server — multi-party computation infrastructure. |
-| [**Bench**](https://github.com/Ritapossible/Bench) | Built for the BNB Agent Studio Marketplace. |
+| [**Olex**](https://github.com/Ritapossible/Olex) | Model Context Protocol (MCP) server giving Claude Code, Cursor and other AI assistants direct access to the Aleo privacy blockchain — chain reads, privacy analysis and view-key tools. |
 | [**OpenMind-OM1**](https://github.com/Ritapossible/OpenMind-OM1) | Modular AI runtime for robots. |
 
 ---
@@ -123,6 +137,6 @@ where AI and blockchains actually meet — beyond the buzzwords.
 
 - 🐦 **X:** [@RitaCryptoTips](https://x.com/RitaCryptoTips)
 - ✍️ **Writing:** [Medium](https://medium.com/@ritapossible) · [DEV](https://dev.to/ritapossible)
-- 💼 **Open to:** open-source collaboration, DevRel, and web3 engineering roles
+- 💼 **Open to:** software engineering roles, open-source collaboration, DevRel, and web3 engineering
 
 <p align="center"><i>Build it, ship it, then write about it.</i></p>
