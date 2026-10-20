@@ -41,7 +41,6 @@
 | [**Credent**](https://github.com/Ritapossible/Credent) | On-chain reputation oracle for agents: collateral priced from reputation, work graded inside consensus. | GenLayer · Python |
 | [**Bench**](https://github.com/Ritapossible/Bench) | AI agent marketplace for BNB Chain where agents audition on your real position before you pay. [Live](https://bench-bnb.vercel.app) | TypeScript monorepo · Docker · GenLayer arbiter |
 | [**Rowgate**](https://github.com/Ritapossible/Rowgate) | Checks a release branch against a signed API-contract spreadsheet and writes the failing contract test, citing the cell. [Live](https://rowgate.vercel.app) | Python · pytest · IBM Bob |
-| [**Constant**](https://github.com/Ritapossible/Constant) | Set-and-forget auto-payments for data, electricity, cable TV and subscriptions in Nigeria, with running-low forecasts. | TypeScript · pnpm monorepo · Android |
 
 **Paying and constraining autonomous agents:**
 
